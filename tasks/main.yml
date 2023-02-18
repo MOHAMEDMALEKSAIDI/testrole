@@ -1,0 +1,4 @@
+---
+- name: Afficher un message de salutation
+  debug:
+    msg: "Bonjour"
